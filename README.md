@@ -1,2 +1,2 @@
 # angularBlueocean
-Angular App with jenkins blue ocean pipeline.
+Angular App with jenkins blue ocean pipeline
